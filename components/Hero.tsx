@@ -34,7 +34,7 @@ const Hero = () => {
           </div>
           <p className='bold-16 lg:regular-20 ml-1'>
             198k
-            <span>Excellent Reviews</span>
+            <span> Excellent Reviews</span>
           </p>
         </div>
         <div className='flex w-full gap-3 sm:flex-row'>
