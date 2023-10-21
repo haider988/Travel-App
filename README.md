@@ -24,5 +24,5 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Deployed Version
 
-Click here to check deployed version [Hilink Camping](https://hilink-camping-git-main-haider988.vercel.app/).
+Click here to check deployed version [Hilink Camping](https://hilink-camping-gules.vercel.app/).
 
