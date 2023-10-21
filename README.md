@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Introduction
 
-## Getting Started
+This is UI/UX demo project built on NextJs along with Tailwind CSS. This is fully responsive for all devices. You can clone this repo and follow following installation steps ,and then you can integrate your backend.
+Don't forget to leave a star :)
+
+
+## Installation
 
 First, run the development server:
 
